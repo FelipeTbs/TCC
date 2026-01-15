@@ -1,0 +1,34 @@
+================================================================================
+RELATÓRIO RESUMIDO - ANÁLISE DE RESULTADOS
+================================================================================
+
+1. INFORMAÇÕES GERAIS
+  - Total de experimentos: 540,000
+  - Datasets analisados: 30
+  - Estratégias testadas: 6
+  - Modelos avaliados: 6
+  - Range de rel_thres: 0.50 - 1.00
+
+2. MELHOR CONFIGURAÇÃO GLOBAL
+  - rel_thres: 0.76
+  - Estratégia: RO
+  - Modelo: BaggingRegressor
+  - Dataset: data\pdgfr
+  - SERA: 0.0001
+
+3. MELHORES POR CATEGORIA
+  - Melhor rel_thres: 0.96
+    SERA médio: 2297377257.3655
+  - Melhor estratégia: GN
+    SERA médio: 1646681144.4093
+  - Melhor modelo: XGBRegressor
+    SERA médio: 350906700.3897
+
+4. ESTATÍSTICAS GERAIS DE SERA
+  - Média: 2330278348.9744
+  - Desvio padrão: 20184059838.2130
+  - Mediana: 631.6139
+  - Mínimo: 0.0001
+  - Máximo: 823217577649.1632
+  - Q1 (25%): 12.4277
+  - Q3 (75%): 27343.3917

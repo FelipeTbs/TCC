@@ -1,0 +1,23 @@
+
+==================================================
+Execução concluída: 2025-12-02 16:41:11.708521
+Range executado: ['0.52']
+Tempo total: 2 days, 2:53:13.888148
+Sucessos: 1/1
+Falhas: 0/1
+
+==================================================
+Execução concluída: 2025-12-03 01:01:39.818059
+Range executado: ['1.00']
+Tempo total: 3:13:06.860191
+Sucessos: 0/1
+Falhas: 1/1
+Experimentos que falharam:
+  - rel_thres = 1.00
+
+==================================================
+Execução concluída: 2025-12-08 02:00:07.398760
+Range executado: ['0.68']
+Tempo total: 1 day, 2:32:38.618656
+Sucessos: 1/1
+Falhas: 0/1

@@ -1,0 +1,35 @@
+
+ Teste de Normalidade (Shapiro-Wilk):
+  Estatística W: 0.089707
+  p-value: 1.222401e-93
+  Distribuição: Não-normal (alpha=0.05)
+
+ Teste de Diferença entre grupos de rel_thres:
+  Teste: Kruskal-Wallis
+  H-statistic: 11.0902
+  p-value: 9.883539e-01
+  Resultado: Diferença não significativa (alpha=0.05)
+
+ Teste de Diferença entre Estratégias:
+  Teste: Kruskal-Wallis
+  H-statistic: 146.9778
+  p-value: 5.870832e-30
+  Resultado: Diferença SIGNIFICATIVA ✓ (alpha=0.05)
+
+ Teste Post-hoc (Mann-Whitney U com correção de Bonferroni):
+  Número de comparações: 15
+  alpha corrigido (Bonferroni): 0.003333
+
+  Comparações significativas:
+    GN vs RO: U=4103528349.50, p=1.196738e-06 *
+    GN vs RU: U=4016205392.00, p=2.170155e-03 *
+    GN vs SG: U=3984926195.50, p=3.556561e-09 *
+    RO vs RU: U=3962888149.00, p=2.724322e-15 *
+    RO vs SG: U=3932243744.00, p=1.222099e-26 *
+    RO vs SMT: U=3978369540.00, p=8.116297e-11 *
+    RU vs WC: U=4110071893.50, p=5.042149e-08 *
+    SG vs SMT: U=4097671305.00, p=1.526588e-05 *
+    SG vs WC: U=4140145744.50, p=2.881983e-16 *
+    SMT vs WC: U=4093692109.00, p=7.376063e-05 *
+
+  Total de diferenças significativas: 10/15

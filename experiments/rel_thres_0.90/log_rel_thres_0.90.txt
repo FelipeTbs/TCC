@@ -1,0 +1,36 @@
+Experimento iniciado: 2025-12-11 16:56:42.911910
+rel_thres = 0.9
+
+Dataset 'data\a1' processado com sucesso
+Dataset 'data\a2' processado com sucesso
+Dataset 'data\a3' processado com sucesso
+Dataset 'data\a7' processado com sucesso
+Dataset 'data\abalone' processado com sucesso
+Dataset 'data\acceleration' processado com sucesso
+Dataset 'data\airfoild' processado com sucesso
+Dataset 'data\analcatdata_apnea3' processado com sucesso
+Dataset 'data\available_power' processado com sucesso
+Dataset 'data\boston' processado com sucesso
+Dataset 'data\cocomo_numeric' processado com sucesso
+Dataset 'data\concreteStrength' processado com sucesso
+Dataset 'data\cpu_small' processado com sucesso
+Dataset 'data\debutanizer' processado com sucesso
+Dataset 'data\delta_elevators' processado com sucesso
+Dataset 'data\forestFires' processado com sucesso
+Dataset 'data\fuel_consumption_country' processado com sucesso
+Dataset 'data\heat' processado com sucesso
+Dataset 'data\kdd_coil_1' processado com sucesso
+Dataset 'data\lungcancer_shedden' processado com sucesso
+Dataset 'data\maximal_torque' processado com sucesso
+Dataset 'data\meta' processado com sucesso
+Dataset 'data\mortgage' processado com sucesso
+Dataset 'data\pdgfr' processado com sucesso
+Dataset 'data\places' processado com sucesso
+Dataset 'data\sensory' processado com sucesso
+Dataset 'data\space_ga' processado com sucesso
+Dataset 'data\treasury' processado com sucesso
+Dataset 'data\triazines' processado com sucesso
+Dataset 'data\wine_quality' processado com sucesso
+
+Experimento concluído: 2025-12-12 21:44:49.836726
+Resumo salvo em: experiments/rel_thres_0.90/summary_rel_thres_0.90.csv

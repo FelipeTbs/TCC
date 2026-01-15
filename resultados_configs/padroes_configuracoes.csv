@@ -1,0 +1,15 @@
+Categoria,Item,Frequencia,Percentual
+Modelo,RandomForestRegressor,13,43.3
+Modelo,XGBRegressor,10,33.3
+Modelo,BaggingRegressor,4,13.3
+Modelo,SVR,2,6.7
+Modelo,MLPRegressor,1,3.3
+Estratégia,SMT,12,40.0
+Estratégia,RO,10,33.3
+Estratégia,SG,4,13.3
+Estratégia,RU,2,6.7
+Estratégia,GN,2,6.7
+Faixa_rel_thres,0.50-0.70,18,60.0
+Faixa_rel_thres,0.70-0.80,3,10.0
+Faixa_rel_thres,0.80-0.90,3,10.0
+Faixa_rel_thres,0.90-1.00,4,13.3
